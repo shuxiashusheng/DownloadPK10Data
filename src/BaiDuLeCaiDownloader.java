@@ -18,7 +18,7 @@ public class BaiDuLeCaiDownloader {
 		// TODO Auto-generated method stub
 //		http://baidu.lecai.com/lottery/draw/list/557?d=2016-10-01
 //		baiDuleCai("http://baidu.lecai.com/lottery/draw/list/557?d=", "2016-10-01");	
-		baiDuleCai_pk10("20150304");
+//		baiDuleCai_pk10("20150304");
 	}
 
 	public static ArrayList<CaiPiaoBaseModel> baiDuleCai_pk10(String dateString) {
